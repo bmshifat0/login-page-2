@@ -382,3 +382,14 @@ h1 {
     left: -20px;
   }
 }
+.inspiration {
+  position: fixed;
+  bottom: 0;
+  right: 20px;
+  padding: 10px;
+  text-align: center;
+  text-decoration: none;
+  font-family: 'Gill Sans', sans-serif;
+  font-size: 20px;
+  color: #000000;
+}
